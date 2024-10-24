@@ -111,7 +111,7 @@ Both **Linear Regression** and **Lasso Regression** were used for the prediction
   - R-squared error on test data: **X.XX**
 
 Example of actual prices vs predicted prices scatter plot:
-![Actual vs Predicted Prices](example_plot.png)
+![Actual vs Predicted Prices](https://github.com/lricardogarcia/Car-Price/blob/main/img/output1.png)
 
 ## Contributing
 
